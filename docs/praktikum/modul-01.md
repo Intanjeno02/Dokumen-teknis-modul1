@@ -54,3 +54,5 @@ Untuk saat ini saya belum memiliki kendala
 ## 5. Catatan Pemanfaatan AI Alat, perintah utama, bagian yang digunakan, dan cara memverifikasinya. Tulis "Tidak menggunakan AI" apabila tidak menggunakan AI.
 Bukti ada di gamabr5-1, gamabr5-2 dan gambar5-3
 3 screenshotan ini merupakan perintah utama yang saya gunakan untuk membantu saya dalam mengerjakan tugas ini. Cara saya memverifikasinya dengan cara bertanya terlebih dahulu lalu saya lakukan perintah yang dia berikan, kemudian saya cocokan apakah hasilnya sama, kalau hasilnya berbeda maka akan saya tanya lagi kenapa hasilnya berbeda dan dibagian mana yang salah, kalau benar dan saya mengerti maka saya tidak akan bertanya tentang hal yang sama. 
+
+selesai
