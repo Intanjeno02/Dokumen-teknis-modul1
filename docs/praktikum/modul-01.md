@@ -34,6 +34,10 @@ Bukti terletak pada gambar1-1, gambar1-2 dan gambar1-3
 - Tautan pull request yang telah digabungkan
 - Konflik yang terjadi, cara penyelesaian, dan alasan pemilihan isi akhir
 Bukti terletak apda gambar2
+
+ini link pullnya
+https://github.com/Intanjeno02/Dokumen-teknis-modul1/pull/1
+
 Keluaran yang saya berikan screenshotnya menggunakan git log –graph –oneline bukan log --oneline –graph karena posisi graph dianggap sebagai path tidak dikenal sehingga mengeluarkan fatal pada terminal. kesalahan tersebut dapat dihindari dengan menggunakan sintaks git log --graph --oneline. sehingga untuk mendapatkan hasil akhir saya memilih menggunakan sintaks  git log --graph --oneline dan mendapatkan output.
 
 ## 3. Pengamatan Lalu Lintas HTTP
